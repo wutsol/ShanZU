@@ -1,4 +1,4 @@
 # 闪租
 
-    这是我们参加物联网设计竞赛的app，目前的版本只是完成了静态资源的展示，很粗糙，仅有的功能是实现微信中页面切换的效果，该功能参考了https://github.com/brucevanfdm/BottomNavigationView 
+这是我们参加物联网设计竞赛的app，目前的版本只是完成了静态资源的展示，很粗糙，仅有的功能是实现微信中页面切换的效果，该功能参考了https://github.com/brucevanfdm/BottomNavigationView 
 该app主要是为了实现与一个实物的网络连接以租用物体等，关键点在于闪租盒的连接，相关内容后续会进行补充。
